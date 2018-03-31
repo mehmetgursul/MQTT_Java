@@ -1,4 +1,4 @@
-# MQTT (Messaging Queue Telemetry Transport) is a publish/subscribe based lightweight messaging protocol.
+# MQTT (Message Queue Telemetry Transport) is a publish/subscribe based lightweight messaging protocol.
 
 To run the application
 1. Run the MQTT Broker (I have mosquitto mqtt broker)
